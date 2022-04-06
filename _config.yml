@@ -15,10 +15,10 @@ author: uniglot
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Tags: "tags"
+  Previous Posts:
+    - Brunch: "https://brunch.co.kr/@laviande22"
+    - Velog: "https://velog.io/@laviande22"
 
 # --- Logo --- #
 
@@ -48,11 +48,11 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: laviande22
 #  xing: yourname
   stackoverflow: "10356310/uniglot"
 #  snapchat: deanat78
-  instagram: uni.belles.choses
+#  instagram: uni.belles.choses
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
