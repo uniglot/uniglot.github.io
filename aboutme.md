@@ -10,4 +10,4 @@ Programming, Music concerts, Classical music, Learning languages, Driving, Home 
 
 ### Dislike
 
-Idiots, Rule breakers, Hip hop, Bugs (both senses)
+Idiots (I am an idiot too, btw), Rule breakers, Hip hop, Bugs (both senses)
