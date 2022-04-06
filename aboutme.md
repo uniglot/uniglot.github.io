@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Uniglot
-subtitle: A polyglot-wannabe cloud engineer based in Seoul, Korea.
+subtitle: A polyglot-wannabe DevOps engineer based in Seoul, Korea.
 ---
-
-DevOps Engineer
 
 ### Like
 
