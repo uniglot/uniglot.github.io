@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 커리어 첫 빅똥을 싼 뉴비들에게 바치는 위로
-cover-img: https://uniglot-blog-assets.s3.ap-northeast-2.amazonaws.com/images/doesn-work.jpeg
-thumbnail-img: https://uniglot-blog-assets.s3.ap-northeast-2.amazonaws.com/images/doesn-work.jpeg
-share-img: https://uniglot-blog-assets.s3.ap-northeast-2.amazonaws.com/images/doesn-work.jpeg
+cover-img: https://assets.uniglot.dev/images/doesn-work.jpeg
+thumbnail-img: https://assets.uniglot.dev/images/doesn-work.jpeg
+share-img: https://assets.uniglot.dev/images/doesn-work.jpeg
 tags: [tech, tech_general, korean]
 comments: true
 ---
