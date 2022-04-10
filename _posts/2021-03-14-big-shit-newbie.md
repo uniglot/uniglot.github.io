@@ -8,8 +8,6 @@ tags: [tech, tech_general, korean]
 comments: true
 ---
 
-*The thumbnail image by [pixnio.com](https://pixnio.com) is licensed under [CC0](https://creativecommons.org/licenses/publicdomain/)*
-
 {: .box-note}
 **참고** 이 글은 Velog 플랫폼에 2021년 3월 14일에 업로드했던 글입니다. ([원본 링크](https://velog.io/@laviande22/newbie-outage))
 
@@ -58,3 +56,5 @@ comments: true
   - 시스템 보완이 필요한 점이 있는가?
 
 결국 가장 중요한 것은 '*다음 번에 안 그러는 것*'입니다. 이것이 팀 책임으로 확장되어 '어떻게 하면 이런 일을 시스템적으로 막을 수 있을까?'에 대한 고민을 해야 하는 것입니다. 또한 실제 했던 장애 복구 과정과 최적의 복구 방법을 비교함으로써 장애 복구 프로세스를 효율화할 수 있습니다. 올바르게 풀어 나간다면 이 경험이 꼭 나쁘기만 한 경험은 아닐 거예요. 오늘은 술도 좀 먹고 쉬도록 합시다. 고생했어요.
+
+*The thumbnail image by [pixnio.com](https://pixnio.com) is licensed under [CC0](https://creativecommons.org/licenses/publicdomain/)*
