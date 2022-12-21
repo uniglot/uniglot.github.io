@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: Uniglot
 description: A polyglot-wannabe DevOps engineer
 ---
 
