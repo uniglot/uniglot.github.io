@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://www.uniglot.dev"
 
 # Favicon
-favicon: https://assets.uniglot.dev/images/main-profile.jpeg
+favicon: https://assets.uniglot.dev/images/main-profile.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
