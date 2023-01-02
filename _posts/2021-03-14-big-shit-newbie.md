@@ -6,8 +6,7 @@ feature_image: https://assets.uniglot.dev/images/doesn-work.jpeg
 tags: [tech, tech_general, korean]
 ---
 
-{: .box-note}
-**참고** 이 글은 Velog 플랫폼에 2021년 3월 14일에 업로드했던 글입니다. ([원본 링크](https://velog.io/@laviande22/newbie-outage))
+> 이 글은 Velog 플랫폼에 2021년 3월 14일에 업로드했던 글입니다. ([원본 링크](https://velog.io/@laviande22/newbie-outage))"
 
 # 서문
 

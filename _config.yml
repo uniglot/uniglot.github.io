@@ -32,13 +32,11 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
   - text: Tags
     url: /tags
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: uniglot
 
 # Colors
 accent_color: '#2d72d9'
