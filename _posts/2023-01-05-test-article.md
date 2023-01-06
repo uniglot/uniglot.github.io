@@ -1,9 +1,14 @@
 ---
 layout: post
 title: 테스트
+description: 디스크립션 테스트 포스트
 feature_image: https://assets.uniglot.dev/images/birds-and-moon.jpg
 tags: [korean]
 ---
+
+으ㄹ어어어
+
+<!--more-->
 
 # 테스트
 

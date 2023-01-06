@@ -1,12 +1,10 @@
 ---
 layout: post
 title: 커리어 첫 빅똥을 싼 뉴비들에게 바치는 위로
-date: 2021-03-14
+description: 결국 가장 중요한 것은 '다음 번에 안 그러는 것'입니다.
 feature_image: https://assets.uniglot.dev/images/doesn-work.jpeg
 tags: [tech, tech_general, korean]
 ---
-
-> 이 글은 Velog 플랫폼에 2021년 3월 14일에 업로드했던 글입니다. ([원본 링크](https://velog.io/@laviande22/newbie-outage))"
 
 # 서문
 
@@ -55,5 +53,8 @@ tags: [tech, tech_general, korean]
   - 시스템 보완이 필요한 점이 있는가?
 
 결국 가장 중요한 것은 '*다음 번에 안 그러는 것*'입니다. 이것이 팀 책임으로 확장되어 '어떻게 하면 이런 일을 시스템적으로 막을 수 있을까?'에 대한 고민을 해야 하는 것입니다. 또한 실제 했던 장애 복구 과정과 최적의 복구 방법을 비교함으로써 장애 복구 프로세스를 효율화할 수 있습니다. 올바르게 풀어 나간다면 이 경험이 꼭 나쁘기만 한 경험은 아닐 거예요. 오늘은 술도 좀 먹고 쉬도록 합시다. 고생했어요.
+
+
+*이 글은 Velog 플랫폼에 2021년 3월 14일에 업로드했던 글입니다. ([원본 링크](https://velog.io/@laviande22/newbie-outage))
 
 *The thumbnail image by [pixnio.com](https://pixnio.com) is licensed under [CC0](https://creativecommons.org/licenses/publicdomain/)*
