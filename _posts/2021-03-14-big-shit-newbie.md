@@ -3,7 +3,7 @@ layout: post
 title: 커리어 첫 빅똥을 싼 뉴비들에게 바치는 위로
 description: 결국 가장 중요한 것은 '다음 번에 안 그러는 것'입니다.
 feature_image: https://assets.uniglot.dev/images/doesn-work.jpeg
-tags: [tech, tech_general, korean]
+tags: [tech, tech_general]
 ---
 
 # 서문
