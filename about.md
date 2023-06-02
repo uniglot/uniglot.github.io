@@ -4,13 +4,13 @@ title: Yuneui Jeong (uniglot)
 description: A polyglot-wannabe software engineer
 ---
 
-## Experience
+*Updated on 3 Jun 2023.*
 
-Updated on 31 May 2023.
+## Experience
 
 ### Bucketplace (오늘의집)
 
-Software Engineer, DevOps Engineer (Mar 2022 ~ Current)
+Software Engineer, DevOps Engineer (Mar 2022 ~ Jun 2023)
 
 - Internal & partners authentication `#SpringBoot #Kotlin`
 - To construct and maintain CI/CD pipelines `#Kubernetes #ArgoCD #GithubActions`
