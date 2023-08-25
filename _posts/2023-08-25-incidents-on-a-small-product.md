@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 프로덕트가 작든 크든 장애는 장애다
-feature_image: https://uniglot-blog-assets.s3.ap-northeast-2.amazonaws.com/images/sgdw.jpg
+feature_image: https://assets.uniglot.dev/images/sgdw.jpg
 tags: [tech]
 ---
 
