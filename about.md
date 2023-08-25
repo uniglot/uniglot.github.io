@@ -4,9 +4,17 @@ title: Yuneui Jeong (uniglot)
 description: A polyglot-wannabe software engineer
 ---
 
-*Updated on 3 Jun 2023.*
+*Updated on 25 Aug 2023.*
 
 ## Experience
+
+### DBDLAB
+
+Technical Lead (Jun 2023 ~ Current)
+
+- Responsible for making decisions on technical aspects of products: UX research platform, both business-facing and customer-facing.
+- Growing a tech team to attain great maturity in terms of technical expertism.
+- Conduct hands-on actions especially in the field of cloud infrastructure and DevOps.
 
 ### Bucketplace (오늘의집)
 
